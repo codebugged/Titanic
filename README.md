@@ -3,6 +3,8 @@ This is the legendary Titanic ML competition – the best, first challenge for y
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
+[![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ftitanic%2Foverview%2Fdescription&psig=AOvVaw0EKfHsgMSziMvEXANi-DFS&ust=1585422791595000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDTpqWuu-gCFQAAAAAdAAAAABAD)](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
+
 ## The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
